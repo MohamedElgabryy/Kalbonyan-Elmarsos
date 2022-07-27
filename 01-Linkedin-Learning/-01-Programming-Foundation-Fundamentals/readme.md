@@ -14,7 +14,7 @@
 - Troubleshooting errors
 - Learning about other languages
 -------------------------------
-<br>[Course-Notion-link](https://www.notion.so/01-Programming-Foundations-Fundamentals-6e4897b508714a05abf01ac685fa0231)
+[Course-Notion-link](https://www.notion.so/01-Programming-Foundations-Fundamentals-6e4897b508714a05abf01ac685fa0231)
 
 <br>[Course Link](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/)
 
